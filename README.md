@@ -4,7 +4,7 @@ Portfolio of my work and projects for CEP144NBB
 ## About Me
 - Name: Raisa Ganbarova
 - Major: Computer programming and analysis 
-- Year: 1
+- Year: 2026
 - Favorite Programming Language: C
 
 ## Course Goals
